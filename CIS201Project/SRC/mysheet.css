@@ -2,7 +2,7 @@ body{
     text-align:center;
     margin:50px 0px;
     padding:0px;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1B_aSicP8wcCD093m1s6Dmpa8UIciIMDwvA&s);
+    background-image: url(https://blog.thejacketmaker.com/wp-content/uploads/2021/07/street-style-feature-930x620.jpg);
     background-repeat: no-repeat;
     background-attachment: fixd;
     background-size: cover;
@@ -10,13 +10,13 @@ body{
 table, th, td{
 
     margin-left:35%;
-    border: 4px solid blanchedalmond;
+    border: 4px solid rgb(19, 12, 2);
     border-collapse: collaps;
     padding: 36px;
     table-layout: auto;
-    background-color: cornsilk , blue;
+    background-color: rgb(255, 255, 255);
     font-size: 100%;
-    color: darkseagreen;
+    color: rgb(4, 17, 4);
 }
 caption{
 
@@ -27,17 +27,17 @@ caption{
 h1{
     font-size:300%;
     font-family: 'Times New Roman', Times, serif;
-    color:cornsilk;
+    color:rgb(10, 9, 2);
 }
 h2{
 
     font-size: 200%;
-    color:cyan;
+    color:rgb(214, 230, 230);
 
 }
 
 lable{
-    color:darkgoldenrod;
+    color:rgb(19, 15, 4);
 }
 form{
 
