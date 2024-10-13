@@ -1,0 +1,51 @@
+body{
+    text-align:center;
+    margin:50px 0px;
+    padding:0px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1B_aSicP8wcCD093m1s6Dmpa8UIciIMDwvA&s);
+    background-repeat: no-repeat;
+    background-attachment: fixd;
+    background-size: cover;
+}
+table, th, td{
+
+    margin-left:35%;
+    border: 4px solid blanchedalmond;
+    border-collapse: collaps;
+    padding: 36px;
+    table-layout: auto;
+    background-color: cornsilk , blue;
+    font-size: 100%;
+    color: darkseagreen;
+}
+caption{
+
+    font-size: 150%;
+    font-weight: bold;
+    color:cornflowerblue;
+}
+h1{
+    font-size:300%;
+    font-family: 'Times New Roman', Times, serif;
+    color:cornsilk;
+}
+h2{
+
+    font-size: 200%;
+    color:cyan;
+
+}
+
+lable{
+    color:darkgoldenrod;
+}
+form{
+
+    background-color: darkgray;
+
+}
+
+
+
+
+
